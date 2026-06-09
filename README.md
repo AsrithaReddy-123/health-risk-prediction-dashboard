@@ -1,1 +1,1 @@
-# health-risk-prediction-dashboard
+# health risk prediction dashboard
